@@ -1,0 +1,9 @@
+global_config:
+  awsCredentialsId: "devCredentialsTdans"
+  resourcePrefix: "scemt"
+  ausAdminRolelName: "scemt-admin-role"
+  SecurityGrouplds: "sg-@cd1833682394bF81, sg-875eccef290825516"
+  subnetIds: "subnet-88117bc67c3ecrcdl, subnet-0484368F10299c625"
+  s3Bucket: "scemt-state-dev"
+  PUBLICURL: "/sc/exp-scemtauss3/vi"
+  SkipPreflightcheck: "true"
